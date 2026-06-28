@@ -21,13 +21,11 @@
 ---
 
 ### 🔥 Featured Projects
-
 | Project | Description | Tech Stack |
 |---|---|---|
-| 🏋️ [FitTrack-AI](https://github.com/GAURAVNEGI33/fittrack-AI) | AI-powered fitness tracking app | Python / ML |
-| 💬 [NLP FAQ Chatbot](https://github.com/GAURAVNEGI33/ codealpha-faq-chatbot) | FAQ chatbot using NLTK & TF-IDF cosine similarity | Python, NLTK |
-| 🌐 [Language Translator](https://github.com/GAURAVNEGI33/ codealpha-language-translation-tool) | Browser-based translator using MyMemory API | HTML, CSS, JS |
-
+| 🏋️ [FitTrack-AI](https://github.com/GAURAVNEGI33/FitTrack-AI) | AI-powered fitness tracking app | Python / ML |
+| 💬 [NLP FAQ Chatbot](https://github.com/GAURAVNEGI33/codealpha-faq-chatbot) | FAQ chatbot using NLTK & TF-IDF cosine similarity | Python, NLTK |
+| 🌐 [Language Translator](https://github.com/GAURAVNEGI33/codealpha-language-translation-tool) | Browser-based translator using MyMemory App | HTML, CSS, JS |
 
 ---
 
