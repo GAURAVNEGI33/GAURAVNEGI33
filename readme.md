@@ -3,8 +3,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=GAURAVNEGI33&label=Profile%20Views&color=blueviolet&style=flat" alt="profile views" />
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
-  <a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/gaurav-negi-b2b162350"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
+  <a href="mailto:gauravnegigvps@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail" /></a>
 </p>
 
 ---
@@ -12,7 +12,7 @@
 ### 🚀 About Me
 
 - 🎓 B.Tech CSE student at **Amrapali University**
-- 💼 Currently interning at **CodeAlpha** — working on AI/ML projects
+
 - 🧠 Interested in **Machine Learning, NLP, and Web Development**
 - 🛠️ I build projects with **plain HTML/CSS/JS** and **Python** (no heavy frameworks — strong fundamentals first)
 - 📚 Currently sharpening skills in **DSA, Algorithms, and AI** for placements
@@ -24,11 +24,13 @@
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| 🏋️ [FitTrack-AI](https://github.com/GAURAVNEGI33/fittrack-AI) | AI-powered fitness tracking app | Python / ML |
+| 🏋️ [FitTrack-AI](https://github.com/GAURAVNEGI33/fittrack-AI) | AI-powered fitness tracking app | 
+React.js · Firebase · Claude AI · Gemini AI · Vercel
+|
 | 💬 [NLP FAQ Chatbot](https://github.com/GAURAVNEGI33/REPO-NAME) | FAQ chatbot using NLTK & TF-IDF cosine similarity | Python, NLTK |
 | 🌐 [Language Translator](https://github.com/GAURAVNEGI33/REPO-NAME) | Browser-based translator using MyMemory API | HTML, CSS, JS |
 
-> 📌 Pin these 3 on your profile so they show up first.
+
 
 ---
 
@@ -63,8 +65,8 @@
 ### 📫 Let's Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" /></a>
-  <a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-red?style=flat&logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/gaurav-negi-b2b162350"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" /></a>
+  <a href="mailto:gauravnegigvps@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-red?style=flat&logo=gmail" /></a>
 </p>
 
 <p align="center"><i>Open to internships and entry-level SDE/ML roles — let's build something great 🚀</i></p>
