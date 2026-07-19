@@ -2,7 +2,7 @@
 <h3 align="center">B.Tech CSE Student | AI/ML Enthusiast | Building Real-World Projects</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=GAURAVNEGI33&label=Profile%20Views&color=blueviolet&style=flat" alt="profile views" />
-  <a href="https://gauravnegi33.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-teal?style=flat&logo=vercel&logoColor=white" /></a>
+  <a href="https://gauravnegi33.github.io/Personal-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-teal?style=flat&logo=vercel&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/gaurav-negi-b2b162350"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
   <a href="mailto:gauravnegigvps@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail" /></a>
 </p>
@@ -23,7 +23,7 @@
 
 | Project                                                                                       | Description                                          | Tech Stack          |
 | --------------------------------------------------------------------------------------------- | ---------------------------------------------------- | ------------------- |
-| 🖥️ [Portfolio](https://gauravnegi33.github.io/portfolio)                                      | Personal dev-themed portfolio with CI/CD pipeline UI | HTML, CSS, JS, GSAP |
+| 🖥️ [Portfolio](https://gauravnegi33.github.io/Personal-Portfolio/)                            | Personal dev-themed portfolio with CI/CD pipeline UI | HTML, CSS, JS, GSAP |
 | 🏋️ [FitTrack-AI](https://github.com/GAURAVNEGI33/FitTrack-AI)                                 | AI-powered fitness tracking app                      | Python / ML         |
 | 💬 [NLP FAQ Chatbot](https://github.com/GAURAVNEGI33/codealpha-faq-chatbot)                   | FAQ chatbot using NLTK & TF-IDF cosine similarity    | Python, NLTK        |
 | 🌐 [Language Translator](https://github.com/GAURAVNEGI33/codealpha-language-translation-tool) | Browser-based translator using MyMemory API          | HTML, CSS, JS       |
@@ -65,7 +65,7 @@
 ### 📫 Let's Connect
 
 <p align="left">
-  <a href="https://gauravnegi33.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-Visit-teal?style=flat&logo=vercel&logoColor=white" /></a>
+  <a href="https://gauravnegi33.github.io/Personal-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-teal?style=flat&logo=vercel&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/gaurav-negi-b2b162350"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" /></a>
   <a href="mailto:gauravnegigvps@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-red?style=flat&logo=gmail" /></a>
 </p>
