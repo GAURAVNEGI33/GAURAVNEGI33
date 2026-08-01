@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=GAURAVNEGI33&label=Profile%20Views&color=blueviolet&style=flat" alt="profile views" />
   <a href="https://gauravnegi33.github.io/Personal-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-teal?style=flat&logo=vercel&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/gaurav-negi-b2b162350"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
-  <a href="mailto:gauravnegigvps@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail" /></a>
+  <a href="mailto:gauravnegigvps@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
