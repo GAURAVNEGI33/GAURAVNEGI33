@@ -21,15 +21,15 @@
 
 ### 🔥 Featured Projects
 
-| Project                                                                                       | Description                                          | Tech Stack          |
-| --------------------------------------------------------------------------------------------- | ---------------------------------------------------- | ------------------- |
-| 🖥️ [Portfolio](https://gauravnegi33.github.io/Personal-Portfolio/)                            | Personal dev-themed portfolio with CI/CD pipeline UI | HTML, CSS, JS, GSAP |
-| 🏋️ [FitTrack-AI](https://github.com/GAURAVNEGI33/FitTrack-AI)                                 | AI-powered fitness tracking app                      | Python / ML         |
-| 💬 [NLP FAQ Chatbot](https://github.com/GAURAVNEGI33/codealpha-faq-chatbot)                   | FAQ chatbot using NLTK & TF-IDF cosine similarity    | Python, NLTK        |
-| 🌐 [Language Translator](https://github.com/GAURAVNEGI33/codealpha-language-translation-tool) | Browser-based translator using MyMemory API          | HTML, CSS, JS       |
-| 📄 [ResumeFlow Landing](https://github.com/GAURAVNEGI33/resume-landing)                       | Resume builder landing page with login/register      | HTML, CSS, JS       |
-| 🔌 [Resume API](https://github.com/GAURAVNEGI33/resume-api)                                   | REST API for AI Resume Builder                       | Node.js, Express    |
-| 📝 [Resume Site](https://gauravnegi33.github.io/Resume/)                                      | Personal resume website — semantic HTML, no divs     | HTML, CSS           |
+| Project                                                                                       | Description                                                        | Tech Stack                                                                   |
+| --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ | ---------------------------------------------------------------------------- | ------------------------------ | --- |
+|                                                                                               | 🖥️ [Portfolio](https://gauravnegi33.github.io/Personal-Portfolio/) | Full-stack developer portfolio — AI-powered projects, live work & experience | React, JavaScript, HTML5, CSS3 |     |
+| 🏋️ [FitTrack-AI](https://github.com/GAURAVNEGI33/FitTrack-AI)                                 | AI-powered fitness tracking app                                    | Python / ML                                                                  |
+| 💬 [NLP FAQ Chatbot](https://github.com/GAURAVNEGI33/codealpha-faq-chatbot)                   | FAQ chatbot using NLTK & TF-IDF cosine similarity                  | Python, NLTK                                                                 |
+| 🌐 [Language Translator](https://github.com/GAURAVNEGI33/codealpha-language-translation-tool) | Browser-based translator using MyMemory API                        | HTML, CSS, JS                                                                |
+| 📄 [ResumeFlow Landing](https://github.com/GAURAVNEGI33/resume-landing)                       | Resume builder landing page with login/register                    | HTML, CSS, JS                                                                |
+| 🔌 [Resume API](https://github.com/GAURAVNEGI33/resume-api)                                   | REST API for AI Resume Builder                                     | Node.js, Express                                                             |
+| 📝 [Resume Site](https://gauravnegi33.github.io/Resume/)                                      | Personal resume website — semantic HTML, no divs                   | HTML, CSS                                                                    |
 
 ---
 
