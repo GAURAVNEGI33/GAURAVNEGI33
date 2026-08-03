@@ -60,11 +60,9 @@
 
 ### 📊 GitHub Stats
 
-### 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats-sigma-black.vercel.app/api?username=GAURAVNEGI33&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats-sigma-black.vercel.app/api/top-langs/?username=GAURAVNEGI33&layout=donut&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GAURAVNEGI33&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GAURAVNEGI33&layout=donut&theme=tokyonight" width="48%" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=GAURAVNEGI33&theme=tokyonight" width="60%" />
