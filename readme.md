@@ -11,11 +11,12 @@
 
 ### 🚀 About Me
 
-- 🎓 B.Tech CSE student at **Amrapali University**
-- 🧠 Interested in **Machine Learning, NLP, and Web Development**
-- 🛠️ I build projects with **plain HTML/CSS/JS**, **Python**, and **Node.js** (strong fundamentals first)
-- 📚 Currently sharpening skills in **DSA, Algorithms, and AI** for placements
-- ⚡ Fun fact: I like understanding _how things work under the hood_ before using shortcuts
+- 🎓 B.Tech CSE student at **Amrapali University** (Class of 2028)
+- 💻 **Aspiring Software Engineer** passionate about building scalable web applications and RESTful APIs.
+- 🛠️ Tech Stack: **JavaScript (React, Angular, Node.js), Python, HTML/CSS**, and exploring **AI/ML integration**.
+- 💡 Strong believer in mastering fundamentals—I love understanding _how things work under the hood_ before using frameworks.
+- 🧠 Consistent problem solver with a strong grasp of **Data Structures & Algorithms**.
+- 🌱 Actively looking for **SDE Internships / Entry-level SDE roles** to contribute to real-world software solutions.
 
 ---
 
